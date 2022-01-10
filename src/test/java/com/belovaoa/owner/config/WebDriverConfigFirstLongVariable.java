@@ -4,7 +4,7 @@ import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.Objects;
 
-public class WebDriverConfig {
+public class WebDriverConfigFirstLongVariable {
 
     public URL getRemoteUrl() {
         String remoteUrl = System.getProperty("remoteUrl");

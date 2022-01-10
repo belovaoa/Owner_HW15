@@ -11,10 +11,10 @@ import java.util.function.Supplier;
 
 public class WebDriverProvider implements Supplier<WebDriver> {
 
-    private WebDriverConfig config;
+    private WebDriverConfigFirstLongVariable config;
 
     public WebDriverProvider() {
-        config = new WebDriverConfig();
+        config = new WebDriverConfigFirstLongVariable();
     }
 
     @Override
