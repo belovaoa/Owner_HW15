@@ -15,10 +15,4 @@ public class WebDriverTest {
         assertEquals("GitHub: Where the world builds software · GitHub",driver.getTitle());
         driver.quit();
     }
-
-    @Test
-    public void testGithubTitle2() {
-        assertEquals("GitHub: Where the world builds software · GitHub",driver.getTitle());
-        driver.quit();
-    }
 }
