@@ -1,4 +1,4 @@
-package com.belovaoa.owner.config;
+package com.belovaoa.owner.HW.config;
 
 import org.aeonbits.owner.Config;
 

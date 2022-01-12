@@ -1,6 +1,6 @@
-package com.belovaoa.owner;
+package com.belovaoa.owner.HW;
 
-import com.belovaoa.owner.config.WebConfig;
+import com.belovaoa.owner.HW.config.WebConfig;
 import org.aeonbits.owner.ConfigFactory;
 import org.junit.jupiter.api.Test;
 
